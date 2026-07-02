@@ -176,15 +176,14 @@ Currently exploring:
 
 # 📫 Reach Me
 
-📧 Email: YOUR_EMAIL
+📧 Email: itz.vinoth04@gmail.com
 
-💼 LinkedIn: YOUR_LINKEDIN_URL
-
+💼 LinkedIn: https://www.linkedin.com/in/vinoth-s-132ba6330/
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=itzvinoth04-design&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
