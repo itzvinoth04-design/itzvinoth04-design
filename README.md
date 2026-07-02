@@ -1,9 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Vinoth S</h1>
-<h3 align="center">Computer Science Engineering Student | AI & Full Stack Developer | Open Source Learner</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | AI Enthusiast | Full Stack Developer | Open Source Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+Enthusiast;Python+Developer;Java+Programmer;Full+Stack+Web+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+Enthusiast;Python+Developer;Java+Programmer;Full+Stack+Web+Developer;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
@@ -12,21 +15,24 @@
 
 🎓 B.E. Computer Science Engineering Student
 
-💡 Passionate about Artificial Intelligence, Full Stack Development, and Problem Solving
+💡 Passionate about Artificial Intelligence, Full Stack Development, and Problem Solving.
 
-🚀 Currently working on AI-powered and Web-based applications
+🚀 Currently building AI-powered and Web-based applications.
 
-🌱 Learning Machine Learning, Cloud Computing, and System Design
+🌱 Currently learning Machine Learning, Cloud Computing, and System Design.
 
-🎯 Goal: Become a Software Engineer building impactful products
+💻 Practicing Data Structures & Algorithms regularly on LeetCode.
 
-⚡ Fun Fact: I love transforming ideas into real-world applications.
+🎯 Goal: Become a Software Engineer building impactful products.
+
+⚡ Fun Fact: I love turning ideas into real-world applications.
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/vinoth-s-132ba6330/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -38,31 +44,36 @@
 <a href="https://github.com/itzvinoth04-design">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://leetcode.com/u/vinoth427/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
 </p>
 
-### Frameworks & Libraries
+### ⚙ Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs" />
 </p>
 
-### Databases
+### 🛢 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### Tools & Platforms
+### 🛠 Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
@@ -72,31 +83,28 @@
 
 # 🚀 Featured Projects
 
-### 🎓 Smart Attendance System
-AI-powered face recognition attendance management system.
+## 🎓 Smart Attendance System
 
-**Tech Stack**
-- Python
-- Flask
-- OpenCV
-- face_recognition
-- SQLite
+AI-powered Face Recognition Attendance Management System.
 
-✔ Face Recognition
+### 🔹 Features
 
-✔ Teacher OTP Authentication
+- Face Recognition
+- Teacher OTP Authentication
+- Student Portal
+- Automated Attendance Tracking
 
-✔ Student Portal
+### 🛠 Tech Stack
 
-✔ Automated Attendance
+Python • Flask • OpenCV • face_recognition • SQLite
 
 ---
 
-### 🚗 Car Rental Management System
+## 🚗 Car Rental Management System
 
 A complete rental platform with Admin and Customer modules.
 
-**Features**
+### 🔹 Features
 
 - Customer Registration
 - Vehicle Booking
@@ -104,15 +112,15 @@ A complete rental platform with Admin and Customer modules.
 - Admin Dashboard
 - MySQL Database
 
-**Tech Stack**
+### 🛠 Tech Stack
 
 Java • MySQL • HTML • CSS • JavaScript
 
 ---
 
-### 🤖 AI & Machine Learning
+## 🤖 AI & Machine Learning
 
-Currently exploring:
+Currently exploring
 
 - Generative AI
 - LLM Applications
@@ -122,13 +130,30 @@ Currently exploring:
 
 ---
 
+# 🧩 LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/vinoth427?theme=dark&font=Poppins&ext=contest" />
+</p>
+
+---
+
+# 💻 Problem Solving
+
+- 🧠 Solving Data Structures & Algorithms problems daily
+- ⚡ Strengthening problem-solving skills
+- 📚 Exploring Trees, Graphs, Dynamic Programming & System Design
+- 🚀 Preparing for Software Engineering Interviews
+
+---
+
 # 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itzvinoth04-design&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzvinoth04-design&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -138,7 +163,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=itzvinoth04-design&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -148,7 +173,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzvinoth04-design&theme=tokyo-night"/>
 
 </p>
 
@@ -158,32 +183,68 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itzvinoth04-design&theme=tokyonight&margin-w=10&no-frame=true"/>
 
 </p>
 
 ---
 
-# 💡 Currently Learning
+# 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Full Stack Development
-- Cloud Computing
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💻 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- ☁ Cloud Computing
+- 🏗 System Design
+
+---
+
+# 🎯 2026 Goals
+
+✅ Solve 500+ LeetCode Problems
+
+✅ Build impactful AI-based applications
+
+✅ Contribute to Open Source Projects
+
+✅ Master Full Stack Development
+
+✅ Learn Cloud & DevOps
+
+---
+
+# 🌐 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/vinoth427/">
+<img src="https://img.shields.io/badge/LeetCode-vinoth427-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/itzvinoth04-design">
+<img src="https://img.shields.io/badge/GitHub-itzvinoth04--design-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
 # 📫 Reach Me
 
-📧 Email: itz.vinoth04@gmail.com
+📧 **Email:** itz.vinoth04@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/vinoth-s-132ba6330/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/vinoth-s-132ba6330/
+
+🌐 **GitHub:**  
+https://github.com/itzvinoth04-design
+
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=itzvinoth04-design&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=itzvinoth04-design&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
@@ -193,5 +254,6 @@ Currently exploring:
 
 ⭐ Thanks for visiting my profile! ⭐
 
-</h3>
+If you like my work, consider giving a ⭐ to my repositories!
 
+</h3>
